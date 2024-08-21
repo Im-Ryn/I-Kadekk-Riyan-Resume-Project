@@ -562,16 +562,8 @@ video {
   position: relative;
 }
 
-.bottom-70 {
-  bottom: 270px;
-}
-
 .left-10 {
   left: 2.5rem;
-}
-
-.left-50 {
-  left: 202px;
 }
 
 .left-8\.5 {
@@ -584,10 +576,6 @@ video {
 
 .top-70 {
   top: 270px;
-}
-
-.top-74 {
-  top: 310px;
 }
 
 .m-2 {
@@ -603,9 +591,9 @@ video {
   margin-right: 2rem;
 }
 
-.my-7 {
-  margin-top: 1.75rem;
-  margin-bottom: 1.75rem;
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .mb-3 {
@@ -624,24 +612,24 @@ video {
   margin-left: 0.5rem;
 }
 
-.ml-28 {
-  margin-left: 7rem;
+.ml-32 {
+  margin-left: 8rem;
 }
 
-.ml-52 {
-  margin-left: 13rem;
+.ml-40 {
+  margin-left: 10rem;
 }
 
-.ml-6 {
-  margin-left: 1.5rem;
+.ml-5 {
+  margin-left: 1.25rem;
 }
 
 .ml-7 {
   margin-left: 1.75rem;
 }
 
-.ml-70 {
-  margin-left: 270px;
+.mr-0 {
+  margin-right: 0px;
 }
 
 .mt-4 {
@@ -654,10 +642,6 @@ video {
 
 .mt-7 {
   margin-top: 1.75rem;
-}
-
-.mr-0 {
-  margin-right: 0px;
 }
 
 .flex {
@@ -724,20 +708,24 @@ video {
   width: 15rem;
 }
 
-.w-80 {
-  width: 20rem;
-}
-
-.w-96 {
-  width: 24rem;
-}
-
 .w-74 {
   width: 310px;
 }
 
+.w-80 {
+  width: 20rem;
+}
+
+.w-85 {
+  width: 22rem;
+}
+
 .list-disc {
   list-style-type: disc;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
 }
 
 .flex-nowrap {
@@ -750,10 +738,6 @@ video {
 
 .justify-center {
   justify-content: center;
-}
-
-.overflow-x-hidden {
-  overflow-x: hidden;
 }
 
 .rounded-3xl {
